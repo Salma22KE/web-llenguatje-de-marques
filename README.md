@@ -25,5 +25,15 @@
     <h2>Abreviaciones</h2>
     <p>Ejemplo de abreviación <abbr title="HyperText Markup Language">HTML</abbr>.</p>
 
+    <h2>Imagen</h2>
+    <img src="https://img.freepik.com/premium-photo/cat-wearing-hat-holiday-uniforms-with-fishing-fishing-rod-hand-river-background-generative-ai_487677-2027.jpg" >
+
+
+</body>
+</html>
+
+    <h2>Abreviaciones</h2>
+    <p>Ejemplo de abreviación <abbr title="HyperText Markup Language">HTML</abbr>.</p>
+
 </body>
 </html>
